@@ -1,0 +1,3 @@
+Ante 75 4
+Mate 60 3
+Katarina 90 5
